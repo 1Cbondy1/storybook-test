@@ -1,12 +1,10 @@
 import React from 'react';
+import '../App.css'
 
-
-function Button() {
-    return (
-        <div>
-          <button className="button">Text</button>
-        </div>
-    );
+export default function Button() {
+  return (
+      <div>
+        <button className="button">Text</button>
+      </div>
+  );
 }
-
-export default Button;
