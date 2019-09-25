@@ -1,0 +1,7 @@
+{
+  "authToken": "rJIHElOPr",
+  "dsmHost": "frogdesign.invisionapp.com",
+  "organization": "frogdesign",
+  "outputDir": ".dsm",
+  "storyPath": "src/stories/**/*.{js,ts}"
+}
