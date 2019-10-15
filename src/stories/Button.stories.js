@@ -1,13 +1,13 @@
 import React from 'react';
 import { storiesOf } from '@storybook/react';
 
-import Buttons from '../components/Buttons';
+import Button from '../components/Button';
 
-storiesOf('Buttons', module)
+storiesOf('Button', module)
   .add(
     'default',
     () => (
-      <Buttons/>
+      <Button/>
     ),
     {
       'in-dsm': {
